@@ -1,2 +1,3 @@
 # hello-world
 Kmurz's initiatory repository!  The beginning of...
+Hello World.  My name is Mogli but you can call me Kmurz.  I quit smoking PCP five years ago.  Since then, nothing has changed.  
